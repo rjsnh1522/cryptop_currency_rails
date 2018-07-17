@@ -1,0 +1,7 @@
+{
+  "name": "new_crypto",
+  "private": true,
+  "dependencies": {
+    "normalize.css": "^8.0.0"
+  }
+}
